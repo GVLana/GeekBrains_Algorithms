@@ -31,29 +31,29 @@ def signup(x):                                                                  
     data_status[new_user] = 1                                                           #O(1)
     return data_login, data_status                                                      #O(1)
 
-# def check_user(db):
-#     if user_input in data_status and data_status[user_input] == 1:                      #O(1)
-#         password = input('Enter your password: ')                                       #O(1)
-#         count = 0                                                                       #O(1)
-#         while password != data_login[user_input] and count != 5:                        #O(1)
-#             print('Incorrect password. Please try again.')                              #O(1)
-#             password = input('Enter your password: ')                                   #O(1)
-#             count += 1                                                                  #O(1)
-#         if count == 5:                                                                  #O(1)
-#             data_status[user_input] = 0                                                 #O(1)
-#             print('Too many attempts. Your account was blocked.')                       #O(1)
-#             return data_status                                                          #O(1)
-#         else:
-#             print('Hello!')                                                             #O(1)
-#     elif user_input in data_status and data_status[user_input] == 0:                    #O(1)
-#         print('Your account has been deactivated. Please, signup again.')               #O(1)
-#         return signup(user_input)                                                       #O(1)
-#
-#     else:
-#         print('There is no such account. Please, signup again.')                        #O(1)
-#         return signup(user_input)                                                       #O(1)
-#
-# print(check_user(user_input))
+def check_user(db):
+    if user_input in data_status and data_status[user_input] == 1:                      #O(1)
+        password = input('Enter your password: ')                                       #O(1)
+        count = 0                                                                       #O(1)
+        while password != data_login[user_input] and count != 5:                        #O(1)
+            print('Incorrect password. Please try again.')                              #O(1)
+            password = input('Enter your password: ')                                   #O(1)
+            count += 1                                                                  #O(1)
+        if count == 5:                                                                  #O(1)
+            data_status[user_input] = 0                                                 #O(1)
+            print('Too many attempts. Your account was blocked.')                       #O(1)
+            return data_status                                                          #O(1)
+        else:
+            print('Hello!')                                                             #O(1)
+    elif user_input in data_status and data_status[user_input] == 0:                    #O(1)
+        print('Your account has been deactivated. Please, signup again.')               #O(1)
+        return signup(user_input)                                                       #O(1)
+
+    else:
+        print('There is no such account. Please, signup again.')                        #O(1)
+        return signup(user_input)                                                       #O(1)
+
+print(check_user(user_input))
 
 # вар2 Сложность O(N)
 def check_user_2(db):
