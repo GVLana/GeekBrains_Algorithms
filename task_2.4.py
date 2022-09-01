@@ -13,4 +13,3 @@ try:
     sequense_sum(user_input, 1)
 except ValueError:
     print('You enter a string, not a number. Try again.')
-
