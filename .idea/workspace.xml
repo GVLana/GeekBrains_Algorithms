@@ -1,39 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4b827522-0c20-4ce9-9707-be521d96976c" name="Changes" comment="delete comments">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Algoritms.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/t1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task_1_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task_1_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task_1_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task_1_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task_1_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task_1_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task_1_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task_4.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task_4.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task_4.3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task_4.4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task_5.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task_5.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task_5.3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task_5.4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_1.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/task_1.2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_2.1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_2.2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_2.3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_2.4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_2.5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_2.6.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_2.7.py" beforeDir="false" />
-    </list>
+
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,8 +32,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.task_3.2">
-    <configuration name="task_2_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+
       <module name="Algoritms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -77,7 +44,6 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task_2_4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -86,7 +52,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="task_2.4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algoritms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -98,7 +63,6 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task_2.4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -107,7 +71,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="task_3.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+
       <module name="Algoritms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -119,7 +83,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task_3.1.py" />
+
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -128,7 +92,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="task_3.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+
       <module name="Algoritms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -140,7 +104,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task_3.2.py" />
+
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,7 +113,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="task_3.3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+
       <module name="Algoritms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -182,7 +146,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task_3.4.py" />
+
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -193,11 +157,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.task_3.2" />
-        <item itemvalue="Python.task_3.3" />
-        <item itemvalue="Python.task_3.4" />
-        <item itemvalue="Python.task_3.1" />
-        <item itemvalue="Python.task_2_4" />
+
       </list>
     </recent_temporary>
   </component>
